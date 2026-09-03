@@ -1,72 +1,118 @@
-# ⚡ SMD VIBE
-
-<h3 align="center">🔧 DIY Electronics Creator | ESP32 & Arduino Projects ⚡</h3>
+<!-- ========================= SMD VIBE PROFILE ========================= -->
 
 <p align="center">
-I build cool electronics projects, experiment with new ideas, and share the process with the community.
+  <img src="https://raw.githubusercontent.com/SMDVIBE/SMDVIBE/main/assets/banner.jpg" alt="SMD VIBE Banner" width="100%">
+</p>
+
+<h1 align="center">⚡ Welcome to SMD VIBE ⚡</h1>
+
+<p align="center">
+  <b>DIY Electronics • ESP32 • Arduino • Creative Projects</b>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@smdvibe"><img src="https://img.shields.io/badge/YouTube-SMD%20VIBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/smd_vibe/"><img src="https://img.shields.io/badge/Instagram-SMD%20VIBE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@smdvibe"><img src="https://img.shields.io/badge/TikTok-SMD%20VIBE-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  I build electronics projects, experiment with new ideas and share the process with the community. 🔧⚡
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@smdvibe">
+    <img src="https://img.shields.io/badge/YouTube-SMD%20VIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/smd_vibe/">
+    <img src="https://img.shields.io/badge/Instagram-SMD%20VIBE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@smdvibe">
+    <img src="https://img.shields.io/badge/TikTok-SMD%20VIBE-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🔥 About SMD VIBE
 
-⚡ Electronics and DIY enthusiast  
-🔧 Building creative projects with **ESP32, Arduino and more**  
-🧪 Experimenting with electronics, motors, sensors and displays  
-📹 Sharing projects and experiments on social media  
-🚀 Always working on the next interesting idea!
+🔴 **DIY Electronics Creator**
+
+I create interesting electronics projects and experiments using microcontrollers, displays, motors, sensors and many other components.
+
+Here you can find:
+
+- ⚡ ESP32 projects
+- 🔧 Arduino projects
+- 🧪 Electronics experiments
+- 📟 Displays and custom gadgets
+- 🛠️ DIY tools and inventions
+- 📦 Open-source project files
+
+> **Subscribe, experiment and build something amazing! ⚡**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Electronics-FF6F00?style=for-the-badge&logo=lightning&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/DIY%20Electronics-FF2A00?style=for-the-badge&logo=lightning&logoColor=white" alt="DIY Electronics">
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🕒 [IN14 Virtual Nixie Clock](https://github.com/SMDVIBE/IN14-Virtual-Nixie-Clock)
+### 🕒 IN-14 Virtual Nixie Clock
 
-A realistic single-tube **IN-14 Nixie clock build** using the **ESP32-C3** and **ST7789 display**.
+A realistic single-tube **IN-14 Nixie clock** built with an **ESP32-C3** and an **ST7789 display**.
 
-🔗 Check out the project and source code above!
+🔗 **[Open the project →](https://github.com/SMDVIBE/IN14-Virtual-Nixie-Clock)**
+
+---
+
+## ⚡ Currently Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 New Projects
+- ESP32 experiments
+- Creative DIY gadgets
+- Electronics prototypes
+
+</td>
+<td width="50%">
+
+### 🧪 New Ideas
+- Displays and visual effects
+- Motors and mechanisms
+- Interesting electronics experiments
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📺 Follow SMD VIBE
 
-🔴 **YouTube:** DIY electronics projects, experiments and builds  
-📸 **Instagram:** Behind the scenes, projects and short videos  
-🎵 **TikTok:** Quick electronics experiments and DIY ideas
-
----
-
-## ⚡ What I'm Working On
-
-🔧 New ESP32 projects  
-🧪 Interesting electronics experiments  
-⚡ DIY gadgets and inventions  
-📦 Open-source projects for the community
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SMDVIBE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+
+🔴 **[YouTube](https://www.youtube.com/@smdvibe)** — Full projects, experiments and builds
+
+📸 **[Instagram](https://www.instagram.com/smd_vibe/)** — Reels, projects and behind the scenes
+
+🎵 **[TikTok](https://www.tiktok.com/@smdvibe)** — Quick DIY electronics experiments
+
 </p>
 
+---
+
 <p align="center">
-  <b>⚡ Thanks for visiting my profile! ⚡</b><br>
-  <i>Follow the journey and let's build something amazing. 🔧</i>
+  <img src="https://komarev.com/ghpvc/?username=SMDVIBE&label=PROFILE%20VIEWS&color=0066CC&style=for-the-badge" alt="Profile views">
+</p>
+
+<h3 align="center">⚡ Thanks for visiting SMD VIBE! ⚡</h3>
+
+<p align="center">
+  <i>Follow the journey and let's build something amazing together. 🔧</i>
 </p>

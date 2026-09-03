@@ -1,17 +1,17 @@
-<!-- ========================= SMD VIBE PROFILE ========================= -->
+<!-- ======================== SMD VIBE PROFILE ======================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SMDVIBE/SMDVIBE/main/assets/banner.jpg" alt="SMD VIBE Banner" width="100%">
 </p>
 
-<h1 align="center">⚡ Welcome to SMD VIBE ⚡</h1>
+<h1 align="center">⚡ SMD VIBE ⚡</h1>
 
 <p align="center">
-  <b>DIY Electronics • ESP32 • Arduino • Creative Projects</b>
+  <b>DIY Electronics Creator • ESP32 • Arduino • Creative Projects</b>
 </p>
 
 <p align="center">
-  I build electronics projects, experiment with new ideas and share the process with the community. 🔧⚡
+  Building, experimenting and sharing cool electronics projects. 🔧⚡
 </p>
 
 <p align="center">
@@ -28,71 +28,55 @@
 
 ---
 
-## 🔥 About SMD VIBE
+## 🔥 About
 
-🔴 **DIY Electronics Creator**
+I'm a DIY electronics creator building interesting projects, testing new ideas and experimenting with electronics.
 
-I create interesting electronics projects and experiments using microcontrollers, displays, motors, sensors and many other components.
+⚡ **ESP32 & Arduino Projects**  
+🔧 **Creative DIY Gadgets**  
+🧪 **Electronics Experiments**  
+📹 **Project Videos & Tutorials**  
+🚀 **Open-Source Builds**
 
-Here you can find:
-
-- ⚡ ESP32 projects
-- 🔧 Arduino projects
-- 🧪 Electronics experiments
-- 📟 Displays and custom gadgets
-- 🛠️ DIY tools and inventions
-- 📦 Open-source project files
-
-> **Subscribe, experiment and build something amazing! ⚡**
+> **Experiment. Build. Create. ⚡**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/DIY%20Electronics-FF2A00?style=for-the-badge&logo=lightning&logoColor=white" alt="DIY Electronics">
+  <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/DIY%20Electronics-FF2A00?style=for-the-badge&logo=lightning&logoColor=white">
 </p>
 
 ---
 
 ## ⚡ Currently Working On
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🔧 New Projects
-- ESP32 experiments
-- Creative DIY gadgets
-- Electronics prototypes
+### 🔧 PROJECTS
+⚡ ESP32 Experiments &nbsp; • &nbsp; 🛠️ Creative DIY Gadgets &nbsp; • &nbsp; 🔬 Electronics Prototypes
 
-</td>
-<td width="50%">
+### 💡 EXPERIMENTS
+📺 Displays & Visual Effects &nbsp; • &nbsp; ⚙️ Motors & Mechanisms &nbsp; • &nbsp; 🧪 New Electronics Ideas
 
-### 🧪 New Ideas
-- Displays and visual effects
-- Motors and mechanisms
-- Interesting electronics experiments
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 ## 📺 Follow SMD VIBE
 
 <p align="center">
+  <a href="https://www.youtube.com/@smdvibe">🔴 <b>YouTube</b></a> &nbsp; | &nbsp;
+  <a href="https://www.instagram.com/smd_vibe/">📸 <b>Instagram</b></a> &nbsp; | &nbsp;
+  <a href="https://www.tiktok.com/@smdvibe">🎵 <b>TikTok</b></a>
+</p>
 
-🔴 **[YouTube](https://www.youtube.com/@smdvibe)** — Full projects, experiments and builds
-
-📸 **[Instagram](https://www.instagram.com/smd_vibe/)** — Reels, projects and behind the scenes
-
-🎵 **[TikTok](https://www.tiktok.com/@smdvibe)** — Quick DIY electronics experiments
-
+<p align="center">
+New projects, experiments, builds and creative electronics content. ⚡
 </p>
 
 ---
@@ -101,8 +85,8 @@ Here you can find:
   <img src="https://komarev.com/ghpvc/?username=SMDVIBE&label=PROFILE%20VIEWS&color=0066CC&style=for-the-badge" alt="Profile views">
 </p>
 
-<h3 align="center">⚡ Thanks for visiting SMD VIBE! ⚡</h3>
+<h3 align="center">⚡ Thanks for visiting! ⚡</h3>
 
 <p align="center">
-  <i>Follow the journey and let's build something amazing together. 🔧</i>
+  <i>Let's build something amazing. 🔧</i>
 </p>

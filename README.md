@@ -58,16 +58,6 @@ Here you can find:
 
 ---
 
-## 🚀 Featured Project
-
-### 🕒 IN-14 Virtual Nixie Clock
-
-A realistic single-tube **IN-14 Nixie clock** built with an **ESP32-C3** and an **ST7789 display**.
-
-🔗 **[Open the project →](https://github.com/SMDVIBE/IN14-Virtual-Nixie-Clock)**
-
----
-
 ## ⚡ Currently Working On
 
 <table>
